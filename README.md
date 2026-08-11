@@ -1,16 +1,98 @@
-# React + Vite
+# 🌐 Aditi Jagtap - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! 🚀
 
-Currently, two official plugins are available:
+This portfolio showcases my skills, projects, education, certifications, and experience as a Computer Science and Engineering graduate interested in software development, Python, data analytics, and data science.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- 🎨 Modern and responsive UI
+- ⚡ Built with React.js and Vite
+- 🎬 Smooth animations using Framer Motion
+- 📱 Mobile responsive design
+- 💼 Projects showcase
+- 🛠️ Technical skills section
+- 🎓 Education section
+- 📜 Certifications section
+- 📧 Contact section
+- 🔗 GitHub and LinkedIn links
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Framer Motion
+- Vite
+- Git & GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📊 Featured Project
+
+### Starbucks Nutrition Analysis
+
+A data analysis project based on Starbucks nutritional information.
+
+The project focuses on analyzing nutritional values of Starbucks drinks and creating meaningful visualizations to identify patterns and insights.
+
+**Technologies:**
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Data Analysis
+- Data Visualization
+
+## 📚 Education
+
+**B.Tech in Computer Science & Engineering**
+
+Sanjeevan Group Of Institutions, Panhala
+
+**CGPA:** 8.3
+
+## 📜 Certifications
+
+- Programming in Python — NPTEL
+- Cloud Computing — NPTEL
+- Data Analysis & Data Visualization with Python — IBM
+- Generative AI — IBM SkillsBuild
+
+## 💡 Skills
+
+### Programming & Development
+
+- Python
+- JavaScript
+- React.js
+- Node.js
+- HTML
+- CSS
+- SQL
+- MongoDB
+
+### Data Science & Analytics
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Power BI
+- Machine Learning
+
+## 📬 Contact
+
+Email: aditijagtap44@gmail.com
+
+GitHub:  
+https://github.com/aditijagtap44
+
+inkedIn:  
+https://www.linkedin.com/in/aditi-jagtap-16ab972b2/
+
+## 🚀 Getting Started
+
+To run this project locally:
